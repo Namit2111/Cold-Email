@@ -1,0 +1,30 @@
+Dear Hiring Manager,
+
+I hope this email finds you well. My name is Namit Jain, a final year B.Tech CSE student at Chandigarh Group of Colleges. I am reaching out to express my interest in an internship opportunity.
+
+About Me:
+
+    Frontend: JavaScript, ReactJs, React Native, HTML, CSS.
+    Backend: Nodejs, ExpressJS, Python, Flask, Django.
+    Database: MongoDB, SQL.
+    Experience: Developed 10+ web and mobile applications as a freelancer, worked on a sentiment analysis tool at Suvidha Foundation, and contributed to an e-commerce site at Solitaire Infosys.
+
+Projects:
+
+    NutriNode AI: Nutrition tracking app with React Native, Node.js, MongoDB.
+    Quiz App: Responsive quiz application with React.js.
+    Expense Tracker: Mobile-responsive expense tracker with Flask and SQL.
+
+I would love to contribute my skills and enthusiasm to your team.
+
+Attached is my resume for your consideration. Thank you for your time and I look forward to the opportunity to discuss how I can add value to your team.
+
+Best regards,
+
+Namit Jain
+
+    Email: namitjain2111@gmail.com
+    Phone: +91 9548232723
+    LinkedIn: https://www.linkedin.com/in/namit2111/
+    GitHub: https://github.com/Namit2111
+    Portfolio: https://protfolio-new-seven.vercel.app/

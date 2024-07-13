@@ -1,0 +1,6 @@
+# Ignore all csv files
+*.csv
+*.pdf
+# ignore virtual environment
+venv/
+__pycache__/
